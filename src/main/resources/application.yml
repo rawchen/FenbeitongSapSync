@@ -1,0 +1,10 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: fenbeitong-sap-sync
+
+
+logging:
+  level:
+    org.apache.coyote.http11.Http11Processor: warn
